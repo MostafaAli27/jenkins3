@@ -1,1 +1,1 @@
-@Library('sprints')_
+@Library('shared-library')_
